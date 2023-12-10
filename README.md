@@ -20,7 +20,6 @@ también al del commit padre
 Busco el id del commit con git reflog
 
 git reset --hard 6bf767c
-		 (id commit)
 
 
 - El merge del paso 13, ¿Causó algún conflicto? ¿Por qué?
@@ -82,7 +81,6 @@ git reset --hard 9632b8e : para hacer un reset completo al commit obtenido del e
 git log --graph --all
 
 git reset --hard 9549589
-		 (id del commit)
 
 
 - ¿Qué comando o comandos usaste en el punto 33
@@ -90,5 +88,4 @@ git reset --hard 9549589
 git reflog
 
 git reset --hard 2d406dc
-		  (id del commit)
 
